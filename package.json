@@ -1,0 +1,11 @@
+{
+  "name": "thethings.io",
+  "version": "1.0.0",
+  "description": "thethings.iO library",
+  "main": "lib/api.js",
+  "scripts": {
+    "test": "NODE_ENV=production mocha"
+  },
+  "author": "Ferran Pelayo Monfort",
+  "license": "MIT"
+}
